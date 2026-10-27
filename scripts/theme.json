@@ -1,0 +1,54 @@
+{
+  "theme": "Midnight Blue Note",
+  "mood": "An intimate after-hours concert hall wrapped in deep indigo, cool moonlight, and restrained crimson accents.",
+  "css": {
+    "bg": "#050812",
+    "panel": "rgba(10, 17, 32, 0.78)",
+    "panelSolid": "#0A1120",
+    "line": "rgba(151, 184, 219, 0.18)",
+    "accent": "#55DDE0",
+    "accent2": "#E85D75",
+    "muted": "#7F8EA3",
+    "text": "#EDF4FA",
+    "glow": "#70E8FF",
+    "danger": "#FF4D67"
+  },
+  "scene": {
+    "background": "#03050C",
+    "fog": "#08101E",
+    "floor": "#111722",
+    "hemisphereSky": "#263E68",
+    "hemisphereGround": "#080A10",
+    "keyFill": "#8CB4D9",
+    "rim": "#54D8FF",
+    "spot": "#FFE2C2",
+    "environment": "night"
+  },
+  "piano": {
+    "case": "#070A10",
+    "soundboard": "#6E3428",
+    "white": "#E8EDF0",
+    "black": "#10131A",
+    "whitePressed": "#A9F4F2",
+    "blackPressed": "#F06A82",
+    "whiteEmissive": "#43D7DD",
+    "blackEmissive": "#D83D62",
+    "labelLight": "#D8E3EB",
+    "labelDark": "#536275"
+  },
+  "character": {
+    "skin": "#7A4935",
+    "skinDark": "#40251F",
+    "suit": "#111827",
+    "shirt": "#DCE5EC",
+    "tie": "#8B2138",
+    "hair": "#090A0D",
+    "shoe": "#080A0E",
+    "outline": "#315172"
+  },
+  "uiNotes": [
+    "Use compact smoked-glass panels with cool borders and no beige tint.",
+    "Shape short natural hair with a tapered hairline and visible side silhouette.",
+    "Raise and angle the lid, then use warm spotlighting plus cyan rim separation."
+  ]
+}

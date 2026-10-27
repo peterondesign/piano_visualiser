@@ -56,6 +56,11 @@ export async function ensureAudio(): Promise<void> {
   await starting
 }
 
+export async function getSampler(): Promise<Tone.Sampler> {
+  await ensureAudio()
+  return sampler!
+}
+
 export async function playChord(midi: number[]): Promise<void> {
   if (midi.length === 0) return
   await ensureAudio()
